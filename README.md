@@ -2,6 +2,8 @@
 
 ## Enhancing Customer Relationships through KPIs
 
+🔗 [View the original LinkedIn post here]  https://tinyurl.com/mtdf477b
+
  **AlloData** was selected for the second phase of the **ADABI Challenge 2025**, a pan-African data competition where Business Intelligence meets customer strategy.
 
 ## Project Objective
@@ -103,8 +105,6 @@ Several new features were created to better understand customer behavior:
 
 **Project:** AlloData  
 **Analyst:** Essossimna BESSEPOU
-
-## View the original LinkedIn post here https://www.linkedin.com/posts/essossimnabessepou-67230728b_adabichallenge-finmark-adabichallenge-activity-7332349179375095808-tZqC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZYxvYB8kKPc6Qq3UVFaui2tMFbHOZhomU
 
 
 ##  Let's Call Data to Action!

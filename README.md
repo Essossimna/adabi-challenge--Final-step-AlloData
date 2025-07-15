@@ -104,6 +104,7 @@ Several new features were created to better understand customer behavior:
 **Project:** AlloData  
 **Analyst:** Essossimna BESSEPOU
 
+## View the original LinkedIn post here https://www.linkedin.com/posts/essossimnabessepou-67230728b_adabichallenge-finmark-adabichallenge-activity-7332349179375095808-tZqC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZYxvYB8kKPc6Qq3UVFaui2tMFbHOZhomU
 
 
 ##  Let's Call Data to Action!

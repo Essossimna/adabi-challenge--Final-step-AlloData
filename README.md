@@ -47,7 +47,7 @@ Several new features were created to better understand customer behavior:
 
 ##  Country-Specific Findings
 
-### 🇧🇫 Burkina Faso
+### Burkina Faso
 - **Store 11** drives strong sales due to high client volume.
 - Stores 10 and 12 underperform despite selling more — due to low product pricing.
 
@@ -56,14 +56,14 @@ Several new features were created to better understand customer behavior:
 - Promote premium bundles; train staff for upselling
 
 
-### 🇨🇮 Côte d'Ivoire
+### Côte d'Ivoire
 - **Store 2** outperforms Store 1 on all KPIs
 
 **Actions:**
 - Focus marketing and stock resources on Store 2
 
 
-### 🇹🇬 Togo
+### Togo
 - **Store 5** dropped from leader in 2024 to lowest in 2025
 
 **Actions:**
@@ -72,7 +72,7 @@ Several new features were created to better understand customer behavior:
 - Launch targeted win-back campaigns
 
 
-### 🇨🇲 Cameroon
+### Cameroon
 - Store 7 was top in 2024, but Store 6 caught up in 2025 with fewer clients but a higher basket size
 
 **Actions:**
@@ -80,7 +80,7 @@ Several new features were created to better understand customer behavior:
 - Train staff on consultative selling
 
 
-### 🇸🇳 Senegal
+### Senegal
 - **Stores 8 & 9** balanced in 2025, after Store 9 led before
 
 **Actions:**

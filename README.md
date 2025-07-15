@@ -99,7 +99,11 @@ Several new features were created to better understand customer behavior:
 - **A/B testing** offers by region and customer type  
 - **Optimize product mix** per store  
 - **Local satisfaction surveys** where sales dropped  
-- **Proactive stock monitoring** to prevent lost sales and customer churn  
+- **Proactive stock monitoring** to prevent lost sales and customer churn
+
+<img width="1314" height="746" alt="image" src="https://github.com/user-attachments/assets/d13ea040-5b87-4f6f-92a7-b98cb9c9edac" />
+<img width="1317" height="745" alt="image" src="https://github.com/user-attachments/assets/318a3991-e206-438b-8615-2cf622e6499e" />
+
 
 ##  Team
 
@@ -113,3 +117,7 @@ With AlloData, we believe insight must lead to **real, local impact**.
 This project demonstrates how KPIs can drive meaningful customer strategies across African markets.
 
 Feel free to explore the dashboards, reuse the methodology, or open an issue for collaboration!
+
+
+
+
